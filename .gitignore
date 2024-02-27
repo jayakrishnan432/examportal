@@ -1,0 +1,5 @@
+# .gitignore
+
+# Ignore virtual environment directories
+venv/
+main.py
